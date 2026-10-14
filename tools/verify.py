@@ -20,7 +20,11 @@ g=d['generation_gate'];assert g['produce_groups']+g['skip_groups']==g['decision_
 for p in ROOT.rglob('*.md'):
  for link in re.findall(r'\]\(([^)]+)\)',p.read_text()):
   if '://' not in link and not link.startswith('#'):assert (p.parent/link.split('#')[0]).exists(),link
+zh_docs=sorted(p.name for p in (ROOT/'docs').glob('[0-9][0-9]-*.md'))
+en_docs=sorted(p.name for p in (ROOT/'docs/en').glob('[0-9][0-9]-*.md'))
+assert zh_docs==en_docs and len(zh_docs)==16,(zh_docs,en_docs)
+assert (ROOT/'README.en.md').is_file() and (ROOT/'PUBLICATION.en.md').is_file()
 manifest=json.loads((ROOT/'MANIFEST.json').read_text())
 for name,entry in manifest.items():
  p=ROOT/name;assert p.is_file() and p.stat().st_size==entry['bytes'] and hashlib.sha256(p.read_bytes()).hexdigest()==entry['sha256'],name
-print('Aggregate arithmetic, local links and',len(manifest),'file sizes/SHA256 verified.')
+print('Aggregate arithmetic, bilingual coverage, local links and',len(manifest),'file sizes/SHA256 verified.')

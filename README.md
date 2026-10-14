@@ -1,5 +1,7 @@
 # Spiro｜从日常声音到个人记忆的 AI 平台
 
+[English](README.en.md) · 中文
+
 **让日常经历成为可以回看、理解和持续对话的个人记忆。**
 
 Spiro 围绕日常音频构建了一套贯通感知算法、事件理解、Agent 内容服务、记忆研究和交互展示的 AI 技术体系。平台从录音中识别语音与说话人，整理有意义的生活事件，再通过事件卡、洞察信件等内容任务，将分散的信息转化为更容易阅读和回看的表达。
@@ -84,5 +86,9 @@ flowchart TD
 | [工程交付与能力状态](docs/10-delivery.md) | 模块成果、技术栈、工程验证与交付范围 |
 | [公司项目介绍文案](docs/11-company-introduction.md) | 官网简介、完整项目介绍与演示讲解顺序 |
 | [评测数据与口径](docs/12-validation-results.md) | 历史聚合结果、公式与可复核范围 |
+| [音频算法实现细节](docs/13-audio-implementation.md) | 音频处理顺序、ASR、分段、声纹、回退与失败语义 |
+| [数据契约与异步运行时](docs/14-contracts-runtime.md) | Fragment/Basic Event、任务 Schema、队列状态与重试 |
+| [记忆系统实现细节](docs/15-memory-implementation.md) | 更新顺序、检索融合公式、配额合并与四阶段出卡上下文 |
+| [实时语音实现细节](docs/16-voice-implementation.md) | 话轮组装、HOLD、打断、取消与会话轨迹 |
 
 本页为公司项目对外展示材料，基于归档工程重新编写；功能状态以[交付说明](docs/10-delivery.md)为准。公开范围见[材料说明](PUBLICATION.md)。

@@ -1,59 +1,147 @@
 {
+  "PUBLICATION.en.md": {
+    "bytes": 1323,
+    "sha256": "943bf5d5123c26aa31a96f2f1cf5c5c3ad35eff9e080343f18eced0826f10202"
+  },
   "PUBLICATION.md": {
-    "bytes": 1460,
-    "sha256": "e3f301a9dddd1d2d29fe60a6e197617c20595c38293aa46d6b7cb926ffcc7351"
+    "bytes": 1776,
+    "sha256": "2642c710491bbaa065f7b01676d61e064618b50115dbd86a1c35821307465403"
+  },
+  "README.en.md": {
+    "bytes": 6354,
+    "sha256": "e5fc9115b3a26ed65f9067fcf85287f2317bae096dcb15a2d87ab57731ef2caf"
   },
   "README.md": {
-    "bytes": 6555,
-    "sha256": "e980f3ccb66ef04a695f97880195e296db8cb1190e3307b58a4c531d7877b9f8"
+    "bytes": 7115,
+    "sha256": "28a1b0893148bb80dedaa2cbadab50e35654b7413f457e3b170d8e4d6a79c920"
   },
   "docs/01-product.md": {
-    "bytes": 3169,
-    "sha256": "7356c770110383b661ec169e6165739fbcb317545e0a97b7c193926e719d396f"
+    "bytes": 3208,
+    "sha256": "406ed522093300d616bb48c275efca3af943f44151d560cb383ae5f6ed84827b"
   },
   "docs/02-architecture.md": {
-    "bytes": 3436,
-    "sha256": "d975255ffba467486cf374a12c262aea9fa434e37d001c45641707d6fbf873e7"
+    "bytes": 3480,
+    "sha256": "0f440664db0c3dee34d0054a98ae70b455c4aa36535104e5a2a13b3e41c9887a"
   },
   "docs/03-algorithms.md": {
-    "bytes": 3882,
-    "sha256": "ea7ff6212c16549b1123cf554751f783d7f741e568ef8ad10f6ab7043d0e21c8"
+    "bytes": 4059,
+    "sha256": "338a49f930ad587010a0aed0e5925982de9d71dcbf9318814dc2a9d6df125eb7"
   },
   "docs/04-speaker-identity.md": {
-    "bytes": 2554,
-    "sha256": "1adbf93bc72784e403257aad83a5954082f1dfe71a45daddf169aa67059a215e"
+    "bytes": 2602,
+    "sha256": "535eb1ef76336af85a9a32eb698dcd0033d11b7c3b42a7328a56d48eba052b90"
   },
   "docs/05-agent-platform.md": {
-    "bytes": 3341,
-    "sha256": "5944bf1c8180df5cac519ed723e3b75914d0c51c493cd1b4425a514d5780e6f0"
+    "bytes": 3542,
+    "sha256": "00c88c0716ac716ff517371a522cf42b1f8dceed79e51e7e07ae043723c549fc"
   },
   "docs/06-platform-engineering.md": {
-    "bytes": 2955,
-    "sha256": "20f149affbf9b41156d968473e31d7ec67ac10829063525941137f205d237563"
+    "bytes": 3007,
+    "sha256": "4b7782297a8e996c32ca72fa8d409276259dfd3778943f341b03ed5e077ee98d"
   },
   "docs/07-memory.md": {
-    "bytes": 3142,
-    "sha256": "3447f3c46e19fdf092b67971567cf4822a92260b4c0e63a222c1c1609b4b7f07"
+    "bytes": 3344,
+    "sha256": "6a0c0e1fd4cc432192fe4de96cb0afc3fa041308f011121b2676eb45769d830d"
   },
   "docs/08-live-experience.md": {
-    "bytes": 2713,
-    "sha256": "d152762c0a6aa267a83ca3970c1d43a27f39fa8b9902487d63a78568144bd285"
+    "bytes": 2896,
+    "sha256": "e6d1cb03c1903ba00529c3e89fb1faa15eb6b7ffbace89ed7417870a93819f28"
   },
   "docs/09-quality.md": {
-    "bytes": 3312,
-    "sha256": "e61a24cabac8d504377a710cb18e1bfa4a547f96cddd8d273c1f3053a5434449"
+    "bytes": 3351,
+    "sha256": "f5a93dcda2e9c20c06fcf91eac93b69b5c81eaa35ff9636724d1b7c9162425df"
   },
   "docs/10-delivery.md": {
-    "bytes": 3410,
-    "sha256": "20023c26ecea2810b4e62b20f10ebbcaa5d0b0c0dc576dadc830715766597f38"
+    "bytes": 3450,
+    "sha256": "12449efe5d89c9fd3d2d1f869f4321205da50639a2a775217fd29494673cf0b7"
   },
   "docs/11-company-introduction.md": {
-    "bytes": 3109,
-    "sha256": "8e7784fbec03d5d389012cd98f0ee64e5d8faba2296047569164fae9027da238"
+    "bytes": 3161,
+    "sha256": "c8b77ed403994353d75abe2f990437db89777c1a0acc55ee85d58f6b4a647fd6"
   },
   "docs/12-validation-results.md": {
-    "bytes": 2971,
-    "sha256": "d55755f4815c2f88b7e173c548f68c052c056ad7c7bd28aa49bbf172321871d0"
+    "bytes": 3021,
+    "sha256": "1410cd19ec231874cb79de3298280d9801906b436d5fffe25b5b943e9c6990f2"
+  },
+  "docs/13-audio-implementation.md": {
+    "bytes": 4321,
+    "sha256": "f0763a097c5ce2042c481ca62cdf4646271530e59173212d4e8d04c1e972e895"
+  },
+  "docs/14-contracts-runtime.md": {
+    "bytes": 4258,
+    "sha256": "96e974e9157da33e4547e2e25c90c3f543ed141e8a55938a53cc05efb037e82f"
+  },
+  "docs/15-memory-implementation.md": {
+    "bytes": 4098,
+    "sha256": "f4f7e26d6d9a8d57c80236c2c186db7fa569cec30cddf015ceac65b94eb21436"
+  },
+  "docs/16-voice-implementation.md": {
+    "bytes": 3704,
+    "sha256": "f6224358e79fe0c4211fe50aec431454697137bb7929ebf91a02e9ea0ae19abb"
+  },
+  "docs/en/01-product.md": {
+    "bytes": 3575,
+    "sha256": "6348094c7b88302d7b2fca51ef60207fe83135f8261c20e1008f07ff08ae63e0"
+  },
+  "docs/en/02-architecture.md": {
+    "bytes": 3833,
+    "sha256": "288229cbcffb68130971be9b7ccdf5d1e4d2d5055796719288177b87d9588077"
+  },
+  "docs/en/03-algorithms.md": {
+    "bytes": 4134,
+    "sha256": "7a98eb78bb5e021efb542f365cae0c06d710675849996e2e7c097d826603fa4b"
+  },
+  "docs/en/04-speaker-identity.md": {
+    "bytes": 2854,
+    "sha256": "dd285c227e1a780e7da49be8b288f1a351a4e4cd0138989c458a27e9e2c60c7d"
+  },
+  "docs/en/05-agent-platform.md": {
+    "bytes": 3371,
+    "sha256": "2147b844c1dbf20fee1b757cf21db3ae6d72fed14326260aa58a78c426a776d9"
+  },
+  "docs/en/06-platform-engineering.md": {
+    "bytes": 3014,
+    "sha256": "e36fa6487fc3cce1b7c8f74cd92d80a58c2ff4d8cd3889bcdd5f1ba635a45818"
+  },
+  "docs/en/07-memory.md": {
+    "bytes": 3345,
+    "sha256": "7b9fac7822c564e5d04de545dd9056a5556e7862f5ea8c088245be9f61f30481"
+  },
+  "docs/en/08-live-experience.md": {
+    "bytes": 2959,
+    "sha256": "0b588de9c941be07f3955d6d9f4bdc8589b22311bcd4ccbc939c2ca5993030b6"
+  },
+  "docs/en/09-quality.md": {
+    "bytes": 3572,
+    "sha256": "15d8bf04b68c32877cf95b92029c6b820097dd68a8e482060949ce642a363203"
+  },
+  "docs/en/10-delivery.md": {
+    "bytes": 3592,
+    "sha256": "f07c7f380d29fd2ec45b8f33618a466476bf3f9837af24a3d87eaa18eec1a8da"
+  },
+  "docs/en/11-company-introduction.md": {
+    "bytes": 3287,
+    "sha256": "d22d2766cab91993fedb62a49450f12e8cb9f413724944d8e4a98d4249620680"
+  },
+  "docs/en/12-validation-results.md": {
+    "bytes": 3346,
+    "sha256": "2618bcde58dbe1d18d3bfeb252d7bdf687362d4add9bb5e9ed4e66807ba9a020"
+  },
+  "docs/en/13-audio-implementation.md": {
+    "bytes": 4244,
+    "sha256": "de90415238d546b8e90b713c13c766078a05b454b60e84f47f0d69a4da7a9036"
+  },
+  "docs/en/14-contracts-runtime.md": {
+    "bytes": 4228,
+    "sha256": "6678ee3bca99a0047f936f88f2357ebbb0fd521d7a60adf87b81c9fddbe07b9c"
+  },
+  "docs/en/15-memory-implementation.md": {
+    "bytes": 4431,
+    "sha256": "3006c3fbd3f2d449ecfb58667e2c896c5b3752fc17c8789dc5b5179099d7444e"
+  },
+  "docs/en/16-voice-implementation.md": {
+    "bytes": 4001,
+    "sha256": "70c88b7f3b286740f36f2e7328d1a5d103af530975313dcc6d921ac57d4a2331"
   },
   "results/aggregate.json": {
     "bytes": 1343,
@@ -64,7 +152,7 @@
     "sha256": "0ee1de412e4a8be5ca1386b6e25ffa0188868915718415e7bd667fb678edd615"
   },
   "tools/verify.py": {
-    "bytes": 1716,
-    "sha256": "53942ba3ef72d358ed5a7e1379cf8f945266c7c2909c357711e5cdce4f78cdb3"
+    "bytes": 2022,
+    "sha256": "38798701beb62a173113b31816222a2e26ff1b6501b5720de2404d1d678272dc"
   }
 }
