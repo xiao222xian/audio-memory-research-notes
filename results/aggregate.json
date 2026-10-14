@@ -1,0 +1,74 @@
+{
+  "fragment": {
+    "n": 116,
+    "positive": 52,
+    "negative": 64,
+    "label_note": "revised labels, model-assisted review; not independently blinded",
+    "versions": {
+      "R0": {
+        "tp": 40,
+        "fp": 14,
+        "fn": 12,
+        "tn": 50
+      },
+      "R6": {
+        "tp": 41,
+        "fp": 7,
+        "fn": 11,
+        "tn": 57
+      },
+      "R7": {
+        "tp": 45,
+        "fp": 10,
+        "fn": 7,
+        "tn": 54
+      }
+    }
+  },
+  "endpoint": {
+    "windows": 17,
+    "runs_per_window": 5,
+    "versions": {
+      "R0": {
+        "cards": 64,
+        "media_cards": 5,
+        "label_sources": {
+          "blind": 63,
+          "internal_review": 1
+        }
+      },
+      "R6": {
+        "cards": 62,
+        "media_cards": 7,
+        "label_sources": {
+          "blind": 62
+        }
+      },
+      "R7": {
+        "cards": 64,
+        "media_cards": 5,
+        "label_sources": {
+          "inherited": 59,
+          "retrospective_review": 5
+        }
+      }
+    }
+  },
+  "ghost": {
+    "selected_problem_cases": 25,
+    "categories": [
+      4,
+      4,
+      17
+    ],
+    "proxy_normal_cases": 83
+  },
+  "generation_gate": {
+    "candidate_events": 26,
+    "decision_groups": 6,
+    "produce_groups": 1,
+    "skip_groups": 5,
+    "execution_failures": 0,
+    "invalid_reference_groups": 0
+  }
+}

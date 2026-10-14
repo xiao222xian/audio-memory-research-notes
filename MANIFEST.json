@@ -1,0 +1,46 @@
+{
+  "PUBLICATION.md": {
+    "bytes": 1580,
+    "sha256": "a05538e748e971c9a89b468cd6ebc43dac3ee04d8b4364bbb1c3c54aae7365d3"
+  },
+  "README.md": {
+    "bytes": 2713,
+    "sha256": "35c88b21a90fc6651e22a20fd0730718b8f9ef00b862ac0e6215b80a87d8554d"
+  },
+  "docs/01-context-and-scope.md": {
+    "bytes": 2032,
+    "sha256": "779953fab70cdf3c9544aeb7d8500ee33152f7e3c3c41c2bb6b6833592c37421"
+  },
+  "docs/02-architecture.md": {
+    "bytes": 2591,
+    "sha256": "7d3775f3c5ebdf6f290805370a656357275560e85ea92ce28db9b5ebaa398992"
+  },
+  "docs/03-experiment-evolution.md": {
+    "bytes": 2953,
+    "sha256": "711b4ac1b070ccd1df92fb18608b9503d95654cd9666e7ae1e7cdb473902197c"
+  },
+  "docs/04-results.md": {
+    "bytes": 3154,
+    "sha256": "e59ca180a48d87d30016fb88f6c2a80d9235063b374e940e3bc4e8132d0fb1aa"
+  },
+  "docs/05-evaluation.md": {
+    "bytes": 2555,
+    "sha256": "6d27a51cde398e4c16dfe7916e054e19fe43c1b7ec0481b814e209591a91bd74"
+  },
+  "docs/06-lessons-and-limits.md": {
+    "bytes": 2378,
+    "sha256": "8af97f9f2f0a9a8dc4097574fa7ab2ad1be425395190f24120bf7712a3260305"
+  },
+  "results/aggregate.json": {
+    "bytes": 1343,
+    "sha256": "9608159e9cf567c34c32b629e003ad79b2cece51a97ce5eca09ada83a01afc27"
+  },
+  "results/fragment_metrics.csv": {
+    "bytes": 164,
+    "sha256": "0ee1de412e4a8be5ca1386b6e25ffa0188868915718415e7bd667fb678edd615"
+  },
+  "tools/verify.py": {
+    "bytes": 1716,
+    "sha256": "53942ba3ef72d358ed5a7e1379cf8f945266c7c2909c357711e5cdce4f78cdb3"
+  }
+}
