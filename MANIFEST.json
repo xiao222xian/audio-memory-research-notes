@@ -1,35 +1,55 @@
 {
   "PUBLICATION.md": {
-    "bytes": 1580,
-    "sha256": "a05538e748e971c9a89b468cd6ebc43dac3ee04d8b4364bbb1c3c54aae7365d3"
+    "bytes": 1834,
+    "sha256": "4dc9e7c0d074155f79754537afda0130a7278378f28575062b294d7bf2cb44a6"
   },
   "README.md": {
-    "bytes": 2713,
-    "sha256": "35c88b21a90fc6651e22a20fd0730718b8f9ef00b862ac0e6215b80a87d8554d"
+    "bytes": 6319,
+    "sha256": "2827e64f74dd279122a510cce47a90ef66ffccd8c76078065d5e1340fa25f05a"
   },
   "docs/01-context-and-scope.md": {
-    "bytes": 2032,
-    "sha256": "779953fab70cdf3c9544aeb7d8500ee33152f7e3c3c41c2bb6b6833592c37421"
+    "bytes": 3882,
+    "sha256": "f519d7811ed7efcf55a23a58d4b0506761dad9ee15281ea382069b0cd31119b5"
   },
   "docs/02-architecture.md": {
-    "bytes": 2591,
-    "sha256": "7d3775f3c5ebdf6f290805370a656357275560e85ea92ce28db9b5ebaa398992"
+    "bytes": 3564,
+    "sha256": "73092ecdbc14001504689bef574dd18823adc94ee253c436bd9d44aedcdcba15"
   },
   "docs/03-experiment-evolution.md": {
-    "bytes": 2953,
-    "sha256": "711b4ac1b070ccd1df92fb18608b9503d95654cd9666e7ae1e7cdb473902197c"
+    "bytes": 4017,
+    "sha256": "015388d3d3ed4bd17a7ae14fbc03e511f44f95dff54eed2659abefc8f4bde9c1"
   },
   "docs/04-results.md": {
-    "bytes": 3154,
-    "sha256": "e59ca180a48d87d30016fb88f6c2a80d9235063b374e940e3bc4e8132d0fb1aa"
+    "bytes": 3758,
+    "sha256": "8592ceaaa95bd7745d378992ab51fe52b4f3dd4d3a9b6646b77f7c16a00f7aa4"
   },
   "docs/05-evaluation.md": {
-    "bytes": 2555,
-    "sha256": "6d27a51cde398e4c16dfe7916e054e19fe43c1b7ec0481b814e209591a91bd74"
+    "bytes": 4242,
+    "sha256": "48065004443c7a59225a71d772dc7e9e15e38f5c8da556fdcbcbf20e3f871cb4"
   },
   "docs/06-lessons-and-limits.md": {
-    "bytes": 2378,
-    "sha256": "8af97f9f2f0a9a8dc4097574fa7ab2ad1be425395190f24120bf7712a3260305"
+    "bytes": 2559,
+    "sha256": "61784394ea5a89d342c950bd3b4deae193cb7bb3735e419ee7aa0c159fc641a9"
+  },
+  "docs/07-speaker-attribution.md": {
+    "bytes": 3204,
+    "sha256": "0cf9da8497d5d6cbe41134fe8ca67af8440283e34143d19809971b3159ce51c5"
+  },
+  "docs/08-evidence-gates.md": {
+    "bytes": 3372,
+    "sha256": "10b28fa514667fc72fb9ff2388c22b1f3a18804179dafff612616c1f98d99a00"
+  },
+  "docs/09-end-to-end.md": {
+    "bytes": 2959,
+    "sha256": "38c427c3412e2d572bc0d85d2d49288207b0fe19f51df1a7dd8d0ac851a71140"
+  },
+  "docs/10-system-map-and-handoff.md": {
+    "bytes": 2730,
+    "sha256": "b797707df71e2d8db6e88dfa9ff81eff09af446457a8daeead4385836c836a78"
+  },
+  "docs/11-project-presentation.md": {
+    "bytes": 3859,
+    "sha256": "ad8c89036c19c18db89135f29a9fe0862ca048e6cb2f612cda719ab395457927"
   },
   "results/aggregate.json": {
     "bytes": 1343,
