@@ -1,55 +1,59 @@
 {
   "PUBLICATION.md": {
-    "bytes": 1834,
-    "sha256": "4dc9e7c0d074155f79754537afda0130a7278378f28575062b294d7bf2cb44a6"
+    "bytes": 1460,
+    "sha256": "e3f301a9dddd1d2d29fe60a6e197617c20595c38293aa46d6b7cb926ffcc7351"
   },
   "README.md": {
-    "bytes": 6319,
-    "sha256": "2827e64f74dd279122a510cce47a90ef66ffccd8c76078065d5e1340fa25f05a"
+    "bytes": 6555,
+    "sha256": "e980f3ccb66ef04a695f97880195e296db8cb1190e3307b58a4c531d7877b9f8"
   },
-  "docs/01-context-and-scope.md": {
-    "bytes": 3882,
-    "sha256": "f519d7811ed7efcf55a23a58d4b0506761dad9ee15281ea382069b0cd31119b5"
+  "docs/01-product.md": {
+    "bytes": 3169,
+    "sha256": "7356c770110383b661ec169e6165739fbcb317545e0a97b7c193926e719d396f"
   },
   "docs/02-architecture.md": {
-    "bytes": 3564,
-    "sha256": "73092ecdbc14001504689bef574dd18823adc94ee253c436bd9d44aedcdcba15"
+    "bytes": 3436,
+    "sha256": "d975255ffba467486cf374a12c262aea9fa434e37d001c45641707d6fbf873e7"
   },
-  "docs/03-experiment-evolution.md": {
-    "bytes": 4017,
-    "sha256": "015388d3d3ed4bd17a7ae14fbc03e511f44f95dff54eed2659abefc8f4bde9c1"
+  "docs/03-algorithms.md": {
+    "bytes": 3882,
+    "sha256": "ea7ff6212c16549b1123cf554751f783d7f741e568ef8ad10f6ab7043d0e21c8"
   },
-  "docs/04-results.md": {
-    "bytes": 3758,
-    "sha256": "8592ceaaa95bd7745d378992ab51fe52b4f3dd4d3a9b6646b77f7c16a00f7aa4"
+  "docs/04-speaker-identity.md": {
+    "bytes": 2554,
+    "sha256": "1adbf93bc72784e403257aad83a5954082f1dfe71a45daddf169aa67059a215e"
   },
-  "docs/05-evaluation.md": {
-    "bytes": 4242,
-    "sha256": "48065004443c7a59225a71d772dc7e9e15e38f5c8da556fdcbcbf20e3f871cb4"
+  "docs/05-agent-platform.md": {
+    "bytes": 3341,
+    "sha256": "5944bf1c8180df5cac519ed723e3b75914d0c51c493cd1b4425a514d5780e6f0"
   },
-  "docs/06-lessons-and-limits.md": {
-    "bytes": 2559,
-    "sha256": "61784394ea5a89d342c950bd3b4deae193cb7bb3735e419ee7aa0c159fc641a9"
+  "docs/06-platform-engineering.md": {
+    "bytes": 2955,
+    "sha256": "20f149affbf9b41156d968473e31d7ec67ac10829063525941137f205d237563"
   },
-  "docs/07-speaker-attribution.md": {
-    "bytes": 3204,
-    "sha256": "0cf9da8497d5d6cbe41134fe8ca67af8440283e34143d19809971b3159ce51c5"
+  "docs/07-memory.md": {
+    "bytes": 3142,
+    "sha256": "3447f3c46e19fdf092b67971567cf4822a92260b4c0e63a222c1c1609b4b7f07"
   },
-  "docs/08-evidence-gates.md": {
-    "bytes": 3372,
-    "sha256": "10b28fa514667fc72fb9ff2388c22b1f3a18804179dafff612616c1f98d99a00"
+  "docs/08-live-experience.md": {
+    "bytes": 2713,
+    "sha256": "d152762c0a6aa267a83ca3970c1d43a27f39fa8b9902487d63a78568144bd285"
   },
-  "docs/09-end-to-end.md": {
-    "bytes": 2959,
-    "sha256": "38c427c3412e2d572bc0d85d2d49288207b0fe19f51df1a7dd8d0ac851a71140"
+  "docs/09-quality.md": {
+    "bytes": 3312,
+    "sha256": "e61a24cabac8d504377a710cb18e1bfa4a547f96cddd8d273c1f3053a5434449"
   },
-  "docs/10-system-map-and-handoff.md": {
-    "bytes": 2730,
-    "sha256": "b797707df71e2d8db6e88dfa9ff81eff09af446457a8daeead4385836c836a78"
+  "docs/10-delivery.md": {
+    "bytes": 3410,
+    "sha256": "20023c26ecea2810b4e62b20f10ebbcaa5d0b0c0dc576dadc830715766597f38"
   },
-  "docs/11-project-presentation.md": {
-    "bytes": 3859,
-    "sha256": "ad8c89036c19c18db89135f29a9fe0862ca048e6cb2f612cda719ab395457927"
+  "docs/11-company-introduction.md": {
+    "bytes": 3109,
+    "sha256": "8e7784fbec03d5d389012cd98f0ee64e5d8faba2296047569164fae9027da238"
+  },
+  "docs/12-validation-results.md": {
+    "bytes": 2971,
+    "sha256": "d55755f4815c2f88b7e173c548f68c052c056ad7c7bd28aa49bbf172321871d0"
   },
   "results/aggregate.json": {
     "bytes": 1343,
