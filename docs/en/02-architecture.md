@@ -36,7 +36,7 @@ Independent data models define the structures exchanged between layers. Computat
 
 ## Main services and experiments
 
-Main services deliver material through stable event contracts. Experiments use separate preparation steps, run directories, and artifacts. Validated candidates can become scoped changes with regression evidence before entering the main flow. Public diagrams explain collaboration without exposing deployment topology, addresses, or credentials.
+Main services deliver material through stable event contracts. Experiments use separate preparation steps, run directories, and artifacts. Validated candidates become scoped changes with regression evidence before entering the main flow. Architecture diagrams use a functional view to explain this collaboration.
 
 ## Key contracts
 

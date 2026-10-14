@@ -19,7 +19,7 @@ Execution depends on version and business requirements; not every request runs a
 
 Everyday audio may contain silence, reverberation, noise, and several speakers. The implementation provides source separation, enhancement, dereverberation, resampling, and voice activity detection, combined with diarization to prepare model inputs. Configuration and version determine which operations run; enhancement is not assumed to improve every input.
 
-The archive contains Whisper and FunASR paths and a vLLM transcription execution path. Speaker intervals, speech coverage, and time alignment govern transcription inputs. Handling short segments, repetition, and implausible text must balance hallucination control against retaining real short utterances.
+The system supports Whisper and FunASR paths and a vLLM transcription execution path. Speaker intervals, speech coverage, and time alignment govern transcription inputs. Handling short segments, repetition, and implausible text must balance hallucination control against retaining real short utterances.
 
 A model loading or execution failure requires error handling or fallback. An empty result after speech gating can be valid. Retrying the latter with weaker conditions can reintroduce unsupported transcription.
 

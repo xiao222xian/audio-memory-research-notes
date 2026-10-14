@@ -20,7 +20,7 @@ Pipelines accept bytes and version configuration and return computational result
 
 ## ASR and segmentation
 
-The archive contains Whisper, FunASR, and vLLM-backed execution paths. Diarization supplies candidate intervals; VAD coverage removes intervals without sufficient speech; duration, character-rate, and repetition checks address short noise and pathological outputs.
+The audio engine supports Whisper, FunASR, and vLLM-backed execution paths. Diarization supplies candidate intervals; VAD coverage removes intervals without sufficient speech; duration, character-rate, and repetition checks address short noise and pathological outputs.
 
 In a gated mode, only intervals supported by both diarization and speech activity are transcribed. An empty list can mean that no valid speech survived gating, while `None` or an exception represents execution failure. Only the latter should trigger model fallback; weakening a legitimate empty result can reintroduce unsupported text.
 
@@ -52,7 +52,7 @@ Registration evaluates usable speech duration, embedding availability, and non-i
 
 Failure in one sub-evaluation does not erase the others. The business layer maps download, decode, inference, and timeout failures into distinct outcomes. Evaluation supplies evidence; business integration completes formal registration.
 
-## Reconstructed output example
+## Synthetic output example
 
 ```json
 {

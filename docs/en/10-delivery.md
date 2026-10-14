@@ -4,17 +4,17 @@ English · [中文](../10-delivery.md)
 
 ## Delivery map
 
-| Area | Archived engineering outputs | Status represented publicly |
+| Area | Engineering outputs | Capability tier |
 |---|---|---|
-| Audio service | Six pipelines, layered implementation, interfaces, test descriptions | Main-service engineering with historical release records |
-| Event understanding | Fragments, Basic Events, semantics, source information | Main processing chain |
-| Identity | Admission evaluation, embeddings, matching, version evolution | Service and registration integration |
-| Agent service | Content tasks, executor, schemas, context, hooks | Independent content service |
-| Runtime platform | API, queues, state, SSE, Monitor, failure handling | Operational and development support |
-| Memory | L0–L5, updates, retrieval, four-stage cards, audit artifacts | Independent experiment, not asserted merged into the main service |
-| Realtime voice | Frontend/backend, voice paths, routing, panel, traces | Single-user Demo and research tool |
-| System map | Interactive architecture, modules, data flow | Collaboration and presentation tool |
-| Quality tools | Batch runs, listening, labels, comparison, lineage | Offline evaluation and development |
+| Audio service | Six pipelines, layered implementation, interfaces, test system | Core Platform |
+| Event understanding | Fragments, Basic Events, semantics, source information | Core Platform |
+| Identity | Admission evaluation, embeddings, matching, version evolution | Core Platform |
+| Agent service | Content tasks, executor, schemas, context, hooks | Core Platform |
+| Runtime platform | API, queues, state, SSE, Monitor, failure handling | Platform Infrastructure |
+| Memory | L0–L5, updates, retrieval, four-stage cards, audit artifacts | Experimental System |
+| Realtime voice | Frontend/backend, voice paths, routing, panel, traces | Interactive Demo |
+| System map | Interactive architecture, modules, data flow | Developer Experience |
+| Quality tools | Batch runs, listening, labels, comparison, lineage | Evaluation Platform |
 
 ## Technology overview
 
@@ -30,22 +30,22 @@ English · [中文](../10-delivery.md)
 | Interaction and observability | WebSocket, SSE, logs, OpenTelemetry, Monitor |
 | Verification | Module and integration tests, replay, human review, metric scripts |
 
-This describes archived engineering choices, not a procurement specification or availability commitment.
+## Capability maturity
 
-## Interpreting status
+**Core Platform** covers audio understanding, event organization, identity, and Agent content tasks.
 
-**Main-service engineering** is supported by code, interfaces, configuration, and historical changes. The project is concluded; this publication does not verify that those services remain online.
+**Platform Infrastructure** supplies asynchronous execution, task state, monitoring, retry, and observability.
 
-**Experimental implementations** have workflows and artifacts but are not presented as capabilities serving all users. The memory consumer is an event-card path; memory-backed letters and memoirs require their own implementation and validation.
+**Experimental System** validates layered memory, update, and retrieval strategies; its current content path focuses on event cards.
 
-**Demos** demonstrate interactions and technical paths. Multi-user operation, long-term reliability, and device performance need separate acceptance.
+**Interactive Demo** validates the full realtime voice, memory retrieval, and cognition-interface experience.
 
-**Historical or changing capabilities** retain research value. Spin has removal work documented as pending deployment; this material claims neither completed production removal nor current availability. L6/L7 slow thinking is outside the current memory path.
+**Developer Experience** and the **Evaluation Platform** support system understanding, collaboration, and quality assessment.
 
-## Handoff and public scope
+## Handoff model
 
-Modules are documented by responsibilities, contracts, execution, versions, and evidence. The public project description explains the system; private archives retain implementation and recovery records. User data, management addresses, and raw debug context remain private.
+Modules are delivered through clear responsibilities, data contracts, runtime modes, versions, and validation systems, enabling algorithm, platform, product, and experience teams to work on one shared data chain.
 
-## Publication verification
+## Engineering quality system
 
-Documentation and selected implementation files were checked against the archive. Existing aggregates, links, bilingual coverage, examples, and file integrity are checked locally. This publication does not reinstall the original system, rerun audio models, or perform live deployment acceptance.
+Module tests, integration tests, fixed-set regression, listening review, end-to-end replay, and runtime monitoring cover different classes of failure. Algorithm metrics, system health, and final content quality are evaluated separately rather than collapsed into one platform score.

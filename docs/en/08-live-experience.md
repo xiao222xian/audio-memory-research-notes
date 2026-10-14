@@ -6,7 +6,7 @@ English · [中文](../08-live-experience.md)
 
 LiveMemory connects retrieval, language reasoning, and voice interaction in a frontend/backend Demo. A user asks a question through a microphone; the backend routes it, retrieves material, prepares an answer, and speaks it. A cognition panel presents related organized information.
 
-It is a single-user demonstration and research tool with a separately imported corpus, not a claim of a completed multi-tenant commercial service or full device acceptance.
+It is a single-user demonstration and research environment built around an independently imported memory corpus.
 
 ## Frontend and backend responsibilities
 
@@ -45,4 +45,4 @@ Spoken responses and the panel consume the same organized information package, r
 
 Development traces record transcription, state changes, retrieval, tool calls, interruptions, and turn boundaries, with navigable model inputs and outputs. Audio failures can be inspected through the state timeline; content failures through retrieval and model context.
 
-The Demo supports both experience exploration and diagnosis. Public documentation excludes real memories and conversations. The [voice implementation chapter](16-voice-implementation.md) details turn assembly, HOLD behavior, and cancellation.
+The Demo supports both experience exploration and diagnosis. The [voice implementation chapter](16-voice-implementation.md) details turn assembly, HOLD behavior, and cancellation.

@@ -17,7 +17,7 @@ The project also includes asynchronous execution, model routing, output validati
 | Find relevant past experiences in conversation | Query-aware memory retrieval | Realtime voice and cognition-panel Demo |
 | Understand why the AI said something | Segment, event, reference, and runtime lineage | Review tools and development workbench |
 
-The product direction also explored wearable recording inputs. This publication focuses on software, algorithms, and experimental modules supported by archived engineering evidence; it does not assert hardware manufacturing or a complete commercial client release.
+The product direction also explored wearable recording inputs. This site focuses on the software platform, algorithm stack, and interactive AI experiences.
 
 ## Six connected technical areas
 
@@ -80,5 +80,3 @@ Main services, memory experiments, and the voice Demo have different maturity an
 | [Contracts and runtime deep dive](docs/en/14-contracts-runtime.md) | Data contracts, task schemas, queue state, retries |
 | [Memory implementation deep dive](docs/en/15-memory-implementation.md) | Update ordering, retrieval equations, quotas, stage contexts |
 | [Voice implementation deep dive](docs/en/16-voice-implementation.md) | Turn assembly, HOLD, barge-in, cancellation, traces |
-
-This is a company-level project showcase reconstructed from archived engineering evidence. Capability status is defined in [Delivery and Status](docs/en/10-delivery.md), and the public disclosure boundary is documented in [Publication Notes](PUBLICATION.en.md).

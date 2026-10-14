@@ -1,9 +1,21 @@
-# Publication Notes
+# Engineering and Data Governance
 
-This repository presents Spiro as a company project across audio algorithms, event understanding, Agent services, platform engineering, memory research, realtime voice, and quality evaluation. The documentation was reconstructed from archived engineering evidence; private source code, original user material, and original Git history were not copied into this public repository.
+English · [中文](PUBLICATION.md)
 
-The technical chapters disclose architecture, processing order, data shapes, algorithm families, scoring equations, state transitions, and failure semantics. They omit real recordings and transcripts, personal identities, credentials, internal addresses, management endpoints, private business configuration, and code that would expose an operational attack surface.
+Spiro's technical documentation covers audio algorithms, event understanding, Agent content services, platform engineering, layered memory, realtime voice, and quality evaluation. Architecture diagrams use a functional view to explain component responsibilities, data flow, and key technical decisions.
 
-Diagrams express functional relationships rather than exact deployment topology. Capability status distinguishes main-service engineering, independent experiments, Demos, planned work, and historical changes. Archived code or documentation does not prove that a service remains online today.
+## Capability maturity
 
-Aggregate verification checks arithmetic, JSON/CSV consistency, bilingual navigation, links, and file integrity. It does not invoke historical models. Publication of this repository does not open-source upstream engineering assets or grant a license for them.
+Capabilities are organized as Core Platform, Platform Infrastructure, Experimental System, Interactive Demo, Developer Experience, and Evaluation Platform. These labels distinguish the core technology foundation, operating infrastructure, experimental systems, and interactive validation environments.
+
+## Data protection
+
+Technical cases use synthetic examples and aggregate results. Real recordings, transcripts, and personal identities are excluded. Credentials, internal addresses, management endpoints, and private business configuration remain outside the project showcase.
+
+## Technical transparency
+
+The documentation describes architecture, processing order, data shapes, algorithm families, scoring methods, state transitions, and failure semantics. Metrics are presented together with their samples, tasks, and evaluation definitions so local experiments are not mistaken for one universal platform score.
+
+## Engineering verification
+
+The repository includes aggregate checks for metric arithmetic, structured-data consistency, Chinese/English document mapping, links, and file integrity. Model quality, runtime health, and final content experience are evaluated through separate methods.

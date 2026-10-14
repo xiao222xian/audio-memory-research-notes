@@ -17,7 +17,7 @@ Registration audio follows an independent assessment flow. After decoding and re
 | Audio quality | Observe noise and perceptual quality | Supply an admission signal |
 | Download, decoding, timeout | Distinguish input and execution failures | Return a meaningful failure reason |
 
-The assessment service returns results; the business-side flow performs formal registration. Quality models provide supporting signals, not identity-accuracy measurements. Version-specific implementation details are described in the [audio deep dive](13-audio-implementation.md).
+The assessment service returns structured results, while the business flow completes formal registration. Audio-quality scores and identity-matching accuracy are separate measurements used for admission and identity decisions respectively. Version-specific implementation details are described in the [audio deep dive](13-audio-implementation.md).
 
 ## Matching and cross-fragment identity
 
@@ -33,4 +33,4 @@ In a fictional conversation, one participant describes a trip while another mere
 
 ## Engineering outputs
 
-The archive includes registration evaluation, embedding and matching implementations, versioned identity processing, integration descriptions, and evaluation materials. Diagnostic work also covers identity propagation, uncertainty, and narrative constraints. No unsupported post-fix production accuracy is advertised.
+The platform includes registration evaluation, embedding and matching, versioned identity processing, integration contracts, and targeted evaluation. Identity propagation, uncertainty, and narrative attribution are managed as one cross-layer quality problem.

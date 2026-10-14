@@ -68,5 +68,3 @@ Routing distinguishes fact, pattern, insight, count, and temporal requests. Retr
 ## Session audit
 
 Per-turn traces record ASR, state, retrieval, tools, interruption, and completion. Each model call stores navigable input and output. Audio failures can be analyzed through the event timeline; content failures through retrieval and model context.
-
-Public documentation describes state and data flow without exposing real sessions, identities, credentials, or internal endpoints.

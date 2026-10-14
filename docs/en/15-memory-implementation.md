@@ -47,7 +47,7 @@ final_score = channel_score
 
 Episodes and Foresights use an approximate 30-day half-life, Atomic Facts an approximate 90-day half-life, while Profile is handled as stable context. Items admitted through a dedicated recency quota are not penalized for recency a second time.
 
-These are archived experimental parameters, not universal optimal settings for personal-memory systems.
+These parameters are versioned and evaluated through fixed samples and downstream content review.
 
 ## Quota merging
 
@@ -72,4 +72,4 @@ Each stage has a separate trace, allowing a reviewer to distinguish missing perc
 
 Concurrent requests use isolated clients and rate controls. Trace names include stage and task keys. Embedding traces use temporary files followed by atomic replacement. Index synchronization occurs only after the corresponding memory layer commits; Search and Card consume the event only after its write sequence completes.
 
-Run directories retain manifests, step state, memory snapshots, card intermediates, and model traces for comparison and recovery. Real runs, transcripts, and user memories remain private.
+Run directories retain manifests, step state, memory snapshots, card intermediates, and model traces for comparison, diagnosis, and recovery.

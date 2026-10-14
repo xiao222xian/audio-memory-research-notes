@@ -18,7 +18,7 @@ For example, a model can produce `decision=produce|skip`; an adapter translates 
 
 A Fragment contains time, transcript, source segments, scene, content origin, speaker analysis, and topics. A Basic Event records its component Fragments and aggregates their transcript, identities, title, summary, and topics.
 
-Synthetic public example:
+Synthetic contract example:
 
 ```json
 {
@@ -27,7 +27,7 @@ Synthetic public example:
   "source_fragments": ["synthetic-fragment-1", "synthetic-fragment-2"],
   "participants": [{"role": "user", "certainty": "confirmed"}],
   "content_origin": "conversation",
-  "summary": "A reconstructed example event",
+  "summary": "A synthetic example event",
   "evidence": [{"segment_id": "synthetic-segment-1", "speaker_role": "user"}]
 }
 ```

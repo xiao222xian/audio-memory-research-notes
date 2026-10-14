@@ -23,7 +23,7 @@ Acknowledgment, failure recording, dead-letter handling, and controlled retries 
 | Failure handling | Dead letters, retries, recovery entry points |
 | Metrics and logs | Service behavior, stage duration, diagnostic clues |
 
-Large debug artifacts are stored separately from lightweight task state. Public materials describe the monitoring capability without exposing management addresses or credentials.
+Large debug artifacts are stored separately from lightweight task state. Monitor gives engineering and operations teams one workspace for task inspection, failure handling, and recovery.
 
 ## Algorithm development tools
 

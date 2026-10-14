@@ -19,7 +19,7 @@ The experience has three parts: recording daily life, understanding experiences,
 | Generate content | Read event cards or other task results | Select evidence, produce structured content, retain references |
 | Revisit | Inspect sources and related experiences | Trace events; explore memory association and voice interaction in separate modules |
 
-This journey connects the project components. It does not imply that every entry point and content format has been commercially released.
+This journey connects recording, algorithmic processing, event organization, content generation, and memory interaction, while defining the responsibility of each platform component.
 
 ## Content formats and responsibilities
 

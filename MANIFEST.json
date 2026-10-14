@@ -1,123 +1,123 @@
 {
   "PUBLICATION.en.md": {
-    "bytes": 1323,
-    "sha256": "943bf5d5123c26aa31a96f2f1cf5c5c3ad35eff9e080343f18eced0826f10202"
+    "bytes": 1601,
+    "sha256": "c5270b0a352952cca395e6e8a22967e613a94c2eba79849b5876bb8418a9fbcd"
   },
   "PUBLICATION.md": {
-    "bytes": 1776,
-    "sha256": "2642c710491bbaa065f7b01676d61e064618b50115dbd86a1c35821307465403"
+    "bytes": 1299,
+    "sha256": "830201989d99475c3749ec52f68de4d09b4c6d8c7d269fb2da73fe17e9bf3d8f"
   },
   "README.en.md": {
-    "bytes": 6354,
-    "sha256": "e5fc9115b3a26ed65f9067fcf85287f2317bae096dcb15a2d87ab57731ef2caf"
+    "bytes": 5982,
+    "sha256": "a0259f8b632e45ee79db79bb93e49f1a9ff25463e36013af0b59dc0c7eda1fe8"
   },
   "README.md": {
-    "bytes": 7115,
-    "sha256": "28a1b0893148bb80dedaa2cbadab50e35654b7413f457e3b170d8e4d6a79c920"
+    "bytes": 6844,
+    "sha256": "df928017df1fd53a3e0bb2dc4dadb238dc54cf3837efab8d8b8031641a0d2056"
   },
   "docs/01-product.md": {
-    "bytes": 3208,
-    "sha256": "406ed522093300d616bb48c275efca3af943f44151d560cb383ae5f6ed84827b"
+    "bytes": 3229,
+    "sha256": "720506fcdd79fca724a1e8c2af6809180cae177b709b26fcce19f3f7a92702be"
   },
   "docs/02-architecture.md": {
-    "bytes": 3480,
-    "sha256": "0f440664db0c3dee34d0054a98ae70b455c4aa36535104e5a2a13b3e41c9887a"
+    "bytes": 3432,
+    "sha256": "96d91e076e27995f008ee97d6c7c5dcf53077c74b48f2618cca3cb2b5e444273"
   },
   "docs/03-algorithms.md": {
     "bytes": 4059,
-    "sha256": "338a49f930ad587010a0aed0e5925982de9d71dcbf9318814dc2a9d6df125eb7"
+    "sha256": "6aabc40ea95a0de57aa189eb5e056d627eea02425956f943017941392e69a596"
   },
   "docs/04-speaker-identity.md": {
-    "bytes": 2602,
-    "sha256": "535eb1ef76336af85a9a32eb698dcd0033d11b7c3b42a7328a56d48eba052b90"
+    "bytes": 2536,
+    "sha256": "c119fe22be1e140113d304f889b7c1eff5d76154769e7452c3c068c488713985"
   },
   "docs/05-agent-platform.md": {
     "bytes": 3542,
     "sha256": "00c88c0716ac716ff517371a522cf42b1f8dceed79e51e7e07ae043723c549fc"
   },
   "docs/06-platform-engineering.md": {
-    "bytes": 3007,
-    "sha256": "4b7782297a8e996c32ca72fa8d409276259dfd3778943f341b03ed5e077ee98d"
+    "bytes": 2997,
+    "sha256": "b62fd5ae44dec58aa13d27a62622fed6388a93457a5f7c54a60c8325555fde70"
   },
   "docs/07-memory.md": {
     "bytes": 3344,
-    "sha256": "6a0c0e1fd4cc432192fe4de96cb0afc3fa041308f011121b2676eb45769d830d"
+    "sha256": "2a9ce0660862673b5ac7ff73259618da1624a64f2cbe8cae0807cec747cf5f70"
   },
   "docs/08-live-experience.md": {
-    "bytes": 2896,
-    "sha256": "e6d1cb03c1903ba00529c3e89fb1faa15eb6b7ffbace89ed7417870a93819f28"
+    "bytes": 2899,
+    "sha256": "74e479039ca8ecf6f94685ce8c56031ec74c45ba7e5f30e08ea7931d5cb44c91"
   },
   "docs/09-quality.md": {
     "bytes": 3351,
     "sha256": "f5a93dcda2e9c20c06fcf91eac93b69b5c81eaa35ff9636724d1b7c9162425df"
   },
   "docs/10-delivery.md": {
-    "bytes": 3450,
-    "sha256": "12449efe5d89c9fd3d2d1f869f4321205da50639a2a775217fd29494673cf0b7"
+    "bytes": 2864,
+    "sha256": "0f0819b30c031d8a419fcf4cc064e6d11d1986303b0310a72e6d106b3692e855"
   },
   "docs/11-company-introduction.md": {
-    "bytes": 3161,
-    "sha256": "c8b77ed403994353d75abe2f990437db89777c1a0acc55ee85d58f6b4a647fd6"
+    "bytes": 3125,
+    "sha256": "4d2ce9aa4996d3db1df63c3704a3d1f34bb62f8695d57c2fbd07c98e3c9ebdf2"
   },
   "docs/12-validation-results.md": {
-    "bytes": 3021,
-    "sha256": "1410cd19ec231874cb79de3298280d9801906b436d5fffe25b5b943e9c6990f2"
+    "bytes": 3024,
+    "sha256": "606c08941fd3fef62ff5254194a0097538df094c22b65f1281475e9760efb49c"
   },
   "docs/13-audio-implementation.md": {
-    "bytes": 4321,
-    "sha256": "f0763a097c5ce2042c481ca62cdf4646271530e59173212d4e8d04c1e972e895"
+    "bytes": 4207,
+    "sha256": "60844d3325b46ec8cd1be0cdd4ef4a7bafddc7a5843207bf85aec8049c017b9d"
   },
   "docs/14-contracts-runtime.md": {
-    "bytes": 4258,
-    "sha256": "96e974e9157da33e4547e2e25c90c3f543ed141e8a55938a53cc05efb037e82f"
+    "bytes": 4216,
+    "sha256": "27436118c6ae0a394c47ed30c0a3f2b52827d945dd27dc018f8549414b4c0a04"
   },
   "docs/15-memory-implementation.md": {
-    "bytes": 4098,
-    "sha256": "f4f7e26d6d9a8d57c80236c2c186db7fa569cec30cddf015ceac65b94eb21436"
+    "bytes": 4049,
+    "sha256": "49981998e41a0e889604aaed5a994f890e3feccebf0869fc8622ed68084d5954"
   },
   "docs/16-voice-implementation.md": {
-    "bytes": 3704,
-    "sha256": "f6224358e79fe0c4211fe50aec431454697137bb7929ebf91a02e9ea0ae19abb"
+    "bytes": 3588,
+    "sha256": "4ef930b248c9013a8d621d28449464a18655a5fe398aa3e0a97962134ee18f3a"
   },
   "docs/en/01-product.md": {
-    "bytes": 3575,
-    "sha256": "6348094c7b88302d7b2fca51ef60207fe83135f8261c20e1008f07ff08ae63e0"
+    "bytes": 3620,
+    "sha256": "725f2ea741b4799133f9c36fb5f6ad9ddf30517a58f25a95d2f487ca4792d30f"
   },
   "docs/en/02-architecture.md": {
-    "bytes": 3833,
-    "sha256": "288229cbcffb68130971be9b7ccdf5d1e4d2d5055796719288177b87d9588077"
+    "bytes": 3801,
+    "sha256": "5808ca1dcad5fe12c2b22154da3a4748bf9482595e750a931e28857ed0bf9a1a"
   },
   "docs/en/03-algorithms.md": {
-    "bytes": 4134,
-    "sha256": "7a98eb78bb5e021efb542f365cae0c06d710675849996e2e7c097d826603fa4b"
+    "bytes": 4133,
+    "sha256": "567f83de957a5a474f539f03055e8229b99072664dc8631398a459f167794042"
   },
   "docs/en/04-speaker-identity.md": {
-    "bytes": 2854,
-    "sha256": "dd285c227e1a780e7da49be8b288f1a351a4e4cd0138989c458a27e9e2c60c7d"
+    "bytes": 2863,
+    "sha256": "ba5924e885a8aa8e5d14bf461921a4c74ee609851bd5131c7e671e5b03c8017b"
   },
   "docs/en/05-agent-platform.md": {
     "bytes": 3371,
     "sha256": "2147b844c1dbf20fee1b757cf21db3ae6d72fed14326260aa58a78c426a776d9"
   },
   "docs/en/06-platform-engineering.md": {
-    "bytes": 3014,
-    "sha256": "e36fa6487fc3cce1b7c8f74cd92d80a58c2ff4d8cd3889bcdd5f1ba635a45818"
+    "bytes": 3022,
+    "sha256": "da34b3484b5548511fc2e704fd7612f531f422c9698c1a4d3629701922df18b4"
   },
   "docs/en/07-memory.md": {
-    "bytes": 3345,
-    "sha256": "7b9fac7822c564e5d04de545dd9056a5556e7862f5ea8c088245be9f61f30481"
+    "bytes": 3352,
+    "sha256": "abddbed38cbfb71998f04c7d563f7a015750ce050e84c765833b134986136647"
   },
   "docs/en/08-live-experience.md": {
-    "bytes": 2959,
-    "sha256": "0b588de9c941be07f3955d6d9f4bdc8589b22311bcd4ccbc939c2ca5993030b6"
+    "bytes": 2836,
+    "sha256": "5b6b24f6101785e2a44753fb817bb389beee59380be4431adf6092b1fd0eb067"
   },
   "docs/en/09-quality.md": {
     "bytes": 3572,
     "sha256": "15d8bf04b68c32877cf95b92029c6b820097dd68a8e482060949ce642a363203"
   },
   "docs/en/10-delivery.md": {
-    "bytes": 3592,
-    "sha256": "f07c7f380d29fd2ec45b8f33618a466476bf3f9837af24a3d87eaa18eec1a8da"
+    "bytes": 2914,
+    "sha256": "06dfe433c3367716336fe880580fcd4f1bfc78ae491fc7b254c921c43f7f4adb"
   },
   "docs/en/11-company-introduction.md": {
     "bytes": 3287,
@@ -128,20 +128,20 @@
     "sha256": "2618bcde58dbe1d18d3bfeb252d7bdf687362d4add9bb5e9ed4e66807ba9a020"
   },
   "docs/en/13-audio-implementation.md": {
-    "bytes": 4244,
-    "sha256": "de90415238d546b8e90b713c13c766078a05b454b60e84f47f0d69a4da7a9036"
+    "bytes": 4245,
+    "sha256": "d3dd42beb6e9fe697dcd8d25bbb2fe3e1638080220449dfc659bcf92f4634aaa"
   },
   "docs/en/14-contracts-runtime.md": {
-    "bytes": 4228,
-    "sha256": "6678ee3bca99a0047f936f88f2357ebbb0fd521d7a60adf87b81c9fddbe07b9c"
+    "bytes": 4226,
+    "sha256": "5dafe10f61c1fcb8536d65e295b9c10b2dc4958691c006ac048557c07d1e0634"
   },
   "docs/en/15-memory-implementation.md": {
-    "bytes": 4431,
-    "sha256": "3006c3fbd3f2d449ecfb58667e2c896c5b3752fc17c8789dc5b5179099d7444e"
+    "bytes": 4379,
+    "sha256": "ba35e08b2ec0f82a5ea3143ced771bf0d64613ea2f00c479e73ade4f3665a721"
   },
   "docs/en/16-voice-implementation.md": {
-    "bytes": 4001,
-    "sha256": "70c88b7f3b286740f36f2e7328d1a5d103af530975313dcc6d921ac57d4a2331"
+    "bytes": 3869,
+    "sha256": "8cb897963837c921074f7eff9ab869d487c7b7af2cc78e645d4ce7cc780c1b7a"
   },
   "results/aggregate.json": {
     "bytes": 1343,

@@ -6,7 +6,7 @@ English · [中文](../07-memory.md)
 
 The independent memory implementation explores how ongoing events become updateable, traceable memories. Raw conversation supports facts; facts and events support longer-term observations; abstraction retains its connection to lower-level evidence.
 
-This chapter describes an experimental implementation, not a claim that it has been merged into the main Agent production service.
+The memory system evolves as an independent experimental module with a clear runtime boundary from the main Agent service.
 
 ## L0–L5 responsibilities
 
@@ -44,7 +44,7 @@ flowchart LR
 
 Perceive extracts observations. Understand associates relevant memories. Decide selects whether and what to express. Write renders the selected material. Intermediate results and model traces help locate errors in observation, association, selection, or wording.
 
-The archived memory consumer is an event-card path. Letters and profile tasks in the main Agent service have separate implementations; their existence does not prove integration with this memory pipeline.
+The current memory consumer focuses on event cards. Letter and profile tasks in the main Agent service use separate implementations. The paths share product goals while retaining distinct data and validation boundaries.
 
 ## Related research paths
 

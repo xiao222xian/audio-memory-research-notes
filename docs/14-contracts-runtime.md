@@ -18,7 +18,7 @@
 
 Fragment 是片段理解单元，包含时间、转录、音段、场景、来源、说话人分析和主题信息。Basic Event 记录它由哪些 Fragment 组成，并聚合完整转录、身份、标题、摘要和主题。
 
-重新构造的公开契约示例：
+合成契约示例：
 
 ```json
 {
@@ -27,7 +27,7 @@ Fragment 是片段理解单元，包含时间、转录、音段、场景、来�
   "source_fragments": ["synthetic-fragment-1", "synthetic-fragment-2"],
   "participants": [{"role": "user", "certainty": "confirmed"}],
   "content_origin": "conversation",
-  "summary": "A reconstructed example event",
+  "summary": "A synthetic example event",
   "evidence": [{"segment_id": "synthetic-segment-1", "speaker_role": "user"}]
 }
 ```
@@ -69,7 +69,7 @@ Worker 在拉取新消息前取得并发令牌，避免读入超过本机处理�
 - Consumer 连接异常采用退避恢复，与单条业务任务重试分开；
 - 强制生成等业务条件由 guard 判定，不能把合法 `skip` 和技术失败混成同一状态。
 
-这些设计提供 at-least-once 环境下的可恢复处理基础，但公开材料不宣称所有业务副作用天然 exactly-once。调用方仍需要稳定任务标识与幂等策略。
+运行时采用 at-least-once 交付语义；调用方通过稳定任务标识与幂等策略管理业务副作用，而不是依赖队列提供 exactly-once 保证。
 
 ## 可观测数据
 
